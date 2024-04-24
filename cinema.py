@@ -83,15 +83,3 @@ while run:
 
 
 
-
-
-# hall1 = Hall(2,1,220)
-# # print(hall1.__rows,hall1.cols,hall1.hall_no)
-# hall1.entry_show(121,'Supermen','01-02-2024')
-# hall1.entry_show(222,'Spaidermen','04-05-2024')
-# hall2 = Star_Cinema()
-# hall2.entry_hall('hall')
-# print(hall2.entry_hall(121))
-
-# print(hall1.id,hall1.movie_name,hall1.hall_no)
-# print(hall1.view_show_list())
